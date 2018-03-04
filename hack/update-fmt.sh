@@ -1,4 +1,6 @@
-# Copyright 2016 The Kubernetes Authors.
+#!/bin/bash -e
+#
+# Copyright 2017 the Heptio Ark contributors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,13 +14,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine:3.6
+HACK_DIR=$(dirname "${BASH_SOURCE}")
 
-MAINTAINER abc <abc@abc.com>
+echo "Updating formatting"
 
-RUN apk add --no-cache ca-certificates
+gofmt -w -s $(find . -type f -name "*.go" -not -path "./vendor/*" -not -path "./pkg/generated/*" -not -name "zz_generated*")
 
-ADD /bin/linux/amd64/aws-s3-controller /aws-s3-controller
+command -v goimports > /dev/null || go get golang.org/x/tools/cmd/goimports
+goimports -w -d $(find . -type f -name "*.go" -not -path "./vendor/*" -not -path "./pkg/generated/*" -not -name "zz_generated*")
 
-USER nobody:nobody
-ENTRYPOINT ["/aws-s3-controller"]
+echo "Success!"

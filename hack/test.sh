@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Copyright 2016 The Kubernetes Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,13 +14,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine:3.6
+set -o errexit
+set -o nounset
+set -o pipefail
 
-MAINTAINER abc <abc@abc.com>
+export CGO_ENABLED=0
 
-RUN apk add --no-cache ca-certificates
+TARGETS=$(for d in "$@"; do echo ./$d/...; done)
 
-ADD /bin/linux/amd64/aws-s3-controller /aws-s3-controller
-
-USER nobody:nobody
-ENTRYPOINT ["/aws-s3-controller"]
+echo "Running tests:"
+go test -i -installsuffix "static" ${TARGETS}
+go test -installsuffix "static" -timeout 60s ${TARGETS}
+echo "Success!"

@@ -1,4 +1,6 @@
-# Copyright 2016 The Kubernetes Authors.
+#!/bin/bash -e
+#
+# Copyright 2017 the Heptio Ark contributors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,13 +14,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine:3.6
+HACK_DIR=$(dirname "${BASH_SOURCE}")
+REPO_ROOT=${HACK_DIR}/..
 
-MAINTAINER abc <abc@abc.com>
-
-RUN apk add --no-cache ca-certificates
-
-ADD /bin/linux/amd64/aws-s3-controller /aws-s3-controller
-
-USER nobody:nobody
-ENTRYPOINT ["/aws-s3-controller"]
+${REPO_ROOT}/vendor/k8s.io/code-generator/generate-groups.sh \
+  all \
+  github.com/heptio/ark/pkg/generated \
+  github.com/heptio/ark/pkg/apis \
+  ark:v1 \
+  --go-header-file hack/boilerplate.go.txt \
+  $@

@@ -1,60 +1,45 @@
-# Copyright 2016 The Kubernetes Authors.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
 # The binary to build (just the basename).
 BIN := aws-s3-controller
 
 # This repo's root import path (under GOPATH).
-PKG := github.com/etsang/aws-s3-controller
+PKG := github.com/etsang/$(BIN)
 
 # Where to push the docker image.
-REGISTRY ?= jbeda
+REGISTRY ?= gcr.io/heptio-images
 
 # Which architecture to build - see $(ALL_ARCH) for options.
-ARCH ?= amd64
+ARCH ?= linux-amd64
 
-# This version-strategy uses git tags to set the version string
-VERSION := $(shell git describe --tags --always --dirty)
-#
-# This version-strategy uses a manual value to set the version string
-#VERSION := 1.2.3
+VERSION ?= master
 
 ###
 ### These variables should not need tweaking.
 ###
 
-ALL_ARCH := amd64 arm arm64 ppc64le
+SRC_DIRS := cmd pkg # directories which hold app source (not vendored)
 
+CLI_PLATFORMS := linux-amd64 linux-arm linux-arm64 darwin-amd64 windows-amd64
+CONTAINER_PLATFORMS := linux-amd64 linux-arm linux-arm64
+
+platform_temp = $(subst -, ,$(ARCH))
+GOOS = $(word 1, $(platform_temp))
+GOARCH = $(word 2, $(platform_temp))
+
+# TODO(ncdc): support multiple image architectures once gcr.io supports manifest lists
 # Set default base image dynamically for each arch
-ifeq ($(ARCH),amd64)
-    BASEIMAGE?=alpine
+ifeq ($(GOARCH),amd64)
+		DOCKERFILE ?= Dockerfile.alpine
 endif
-ifeq ($(ARCH),arm)
-    BASEIMAGE?=armel/busybox
-endif
-ifeq ($(ARCH),arm64)
-    BASEIMAGE?=aarch64/busybox
-endif
-ifeq ($(ARCH),ppc64le)
-    BASEIMAGE?=ppc64le/busybox
-endif
+#ifeq ($(GOARCH),arm)
+#		DOCKERFILE ?= Dockerfile.arm #armel/busybox
+#endif
+#ifeq ($(GOARCH),arm64)
+#		DOCKERFILE ?= Dockerfile.arm64 #aarch64/busybox
+#endif
 
-IMAGE := $(REGISTRY)/$(BIN)-$(ARCH)
+IMAGE := $(REGISTRY)/$(BIN)
 
-BUILD_IMAGE ?= golang:1.8-alpine
-
-DOCKER_MOUNT_MODE=delegated
+BUILD_IMAGE ?= gcr.io/heptio-images/golang:1.9-alpine3.6
 
 # If you want to build all binaries, see the 'all-build' rule.
 # If you want to build all containers, see the 'all-container' rule.
@@ -64,49 +49,55 @@ all: build
 build-%:
 	@$(MAKE) --no-print-directory ARCH=$* build
 
-container-%:
-	@$(MAKE) --no-print-directory ARCH=$* container
+#container-%:
+#	@$(MAKE) --no-print-directory ARCH=$* container
 
-push-%:
-	@$(MAKE) --no-print-directory ARCH=$* push
+#push-%:
+#	@$(MAKE) --no-print-directory ARCH=$* push
 
-all-build: $(addprefix build-, $(ALL_ARCH))
+all-build: $(addprefix build-, $(CLI_PLATFORMS))
 
-all-container: $(addprefix container-, $(ALL_ARCH))
+#all-container: $(addprefix container-, $(CONTAINER_PLATFORMS))
 
-all-push: $(addprefix push-, $(ALL_ARCH))
+#all-push: $(addprefix push-, $(CONTAINER_PLATFORMS))
 
-build: bin/$(ARCH)/$(BIN)
+build: _output/bin/$(GOOS)/$(GOARCH)/$(BIN)
 
-bin/$(ARCH)/$(BIN): build-dirs
+_output/bin/$(GOOS)/$(GOARCH)/$(BIN): build-dirs
 	@echo "building: $@"
-	@docker run                                                            \
-	    -ti                                                                \
-	    -u $$(id -u):$$(id -g)                                             \
-	    -v $$(pwd)/.go:/go:$(DOCKER_MOUNT_MODE)                            \
-	    -v $$(pwd):/go/src/$(PKG):$(DOCKER_MOUNT_MODE)                     \
-	    -v $$(pwd)/bin/$(ARCH):/go/bin:$(DOCKER_MOUNT_MODE)                \
-	    -v $$(pwd)/bin/$(ARCH):/go/bin/linux_$(ARCH):$(DOCKER_MOUNT_MODE)  \
-	    -v $$(pwd)/.go/std/$(ARCH):/usr/local/go/pkg/linux_$(ARCH)_static:$(DOCKER_MOUNT_MODE)  \
-	    -w /go/src/$(PKG)                                                  \
-	    $(BUILD_IMAGE)                                                     \
-	    /bin/sh -c "                                                       \
-	        ARCH=$(ARCH)                                                   \
-	        VERSION=$(VERSION)                                             \
-	        PKG=$(PKG)                                                     \
-	        ./build/build.sh                                               \
-	    "
+	$(MAKE) shell CMD="-c '\
+		GOOS=$(GOOS) \
+		GOARCH=$(GOARCH) \
+		VERSION=$(VERSION) \
+		PKG=$(PKG) \
+		BIN=$(BIN) \
+		OUTPUT_DIR=/output/$(GOOS)/$(GOARCH) \
+		./hack/build.sh'"
+
+TTY := $(shell tty -s && echo "-t")
+
+# Example: make shell CMD="date > datefile"
+shell: build-dirs
+	@docker run \
+		-i $(TTY) \
+		--rm \
+		-u $$(id -u):$$(id -g) \
+		-v "$$(pwd)/.go/pkg:/go/pkg" \
+		-v "$$(pwd)/.go/src:/go/src" \
+		-v "$$(pwd)/.go/std:/go/std" \
+		-v "$$(pwd):/go/src/$(PKG)" \
+		-v "$$(pwd)/_output/bin:/output" \
+		-v "$$(pwd)/.go/std/$(GOOS)/$(GOARCH):/usr/local/go/pkg/$(GOOS)_$(GOARCH)_static" \
+		-w /go/src/$(PKG) \
+		$(BUILD_IMAGE) \
+		/bin/sh $(CMD)
 
 DOTFILE_IMAGE = $(subst :,_,$(subst /,_,$(IMAGE))-$(VERSION))
 
-container: .container-$(DOTFILE_IMAGE) container-name
-.container-$(DOTFILE_IMAGE): bin/$(ARCH)/$(BIN) Dockerfile.in
-	@sed \
-	    -e 's|ARG_BIN|$(BIN)|g' \
-	    -e 's|ARG_ARCH|$(ARCH)|g' \
-	    -e 's|ARG_FROM|$(BASEIMAGE)|g' \
-	    Dockerfile.in > .dockerfile-$(ARCH)
-	@docker build -t $(IMAGE):$(VERSION) -f .dockerfile-$(ARCH) .
+container: verify test .container-$(DOTFILE_IMAGE) container-name
+.container-$(DOTFILE_IMAGE): _output/bin/$(GOOS)/$(GOARCH)/$(BIN) $(DOCKERFILE)
+	@cp $(DOCKERFILE) _output/.dockerfile-$(GOOS)-$(GOARCH)
+	@docker build -t $(IMAGE):$(VERSION) -f _output/.dockerfile-$(GOOS)-$(GOARCH) _output
 	@docker images -q $(IMAGE):$(VERSION) > $@
 
 container-name:
@@ -124,31 +115,57 @@ endif
 push-name:
 	@echo "pushed: $(IMAGE):$(VERSION)"
 
-version:
-	@echo $(VERSION)
-
+SKIP_TESTS ?=
 test: build-dirs
-	@docker run                                                            \
-	    -ti                                                                \
-	    -u $$(id -u):$$(id -g)                                             \
-	    -v $$(pwd)/.go:/go:$(DOCKER_MOUNT_MODE)                            \
-	    -v $$(pwd):/go/src/$(PKG):$(DOCKER_MOUNT_MODE)                     \
-	    -v $$(pwd)/bin/$(ARCH):/go/bin:$(DOCKER_MOUNT_MODE)                \
-	    -v $$(pwd)/.go/std/$(ARCH):/usr/local/go/pkg/linux_$(ARCH)_static:$(DOCKER_MOUNT_MODE)  \
-	    -w /go/src/$(PKG)                                                  \
-	    $(BUILD_IMAGE)                                                     \
-	    /bin/sh -c "                                                       \
-	        ./build/test.sh                                                \
-	    "
+ifneq ($(SKIP_TESTS), 1)
+	@$(MAKE) shell CMD="-c 'hack/test.sh $(SRC_DIRS)'"
+endif
+
+verify:
+ifneq ($(SKIP_TESTS), 1)
+	@$(MAKE) shell CMD="-c 'hack/verify-all.sh'"
+endif
+
+update:
+	@$(MAKE) shell CMD="-c 'hack/update-all.sh'"
+
+release: all-tar-bin checksum
+
+checksum:
+	@cd _output/release; \
+	sha256sum *.tar.gz > CHECKSUM; \
+	cat CHECKSUM; \
+	sha256sum CHECKSUM
+
+all-tar-bin: $(addprefix tar-bin-, $(CLI_PLATFORMS))
+
+tar-bin-%:
+	$(MAKE) ARCH=$* VERSION=$(VERSION) tar-bin
+
+GIT_DESCRIBE = $(shell git describe --tags --always --dirty)
+tar-bin: build
+	mkdir -p _output/release
+
+# We do the subshell & wildcard ls so we can pick up $(BIN).exe for windows
+	(cd _output/bin/$(GOOS)/$(GOARCH) && ls $(BIN)*) | \
+		tar \
+			-C _output/bin/$(GOOS)/$(GOARCH) \
+			--files-from=- \
+			-zcf _output/release/$(BIN)-$(GIT_DESCRIBE)-$(GOOS)-$(GOARCH).tar.gz
 
 build-dirs:
-	@mkdir -p bin/$(ARCH)
-	@mkdir -p .go/src/$(PKG) .go/pkg .go/bin .go/std/$(ARCH)
+	@mkdir -p _output/bin/$(GOOS)/$(GOARCH)
+	@mkdir -p .go/src/$(PKG) .go/pkg .go/bin .go/std/$(GOOS)/$(GOARCH)
 
 clean: container-clean bin-clean
 
 container-clean:
-	rm -rf .container-* .dockerfile-* .push-*
+	rm -rf .container-* _output/.dockerfile-* .push-*
 
 bin-clean:
-	rm -rf .go bin
+	rm -rf .go _output
+
+ci:
+	hack/verify-all.sh
+	hack/test.sh $(SRC_DIRS)
+	GOOS=$(GOOS) GOARCH=$(GOARCH) VERSION=$(VERSION) PKG=$(PKG) BIN=$(BIN) ./hack/build.sh
