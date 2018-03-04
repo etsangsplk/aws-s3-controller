@@ -1,20 +1,48 @@
 apiVersion: apiextensions.k8s.io/v1beta1
 kind: CustomResourceDefinition
 metadata:
-  name: s3s.ssc.aws.abc.com
+  name: s3s.aws.ssc.abc.com
+
 spec:
-  group: aws.ssc.aws.abc.com
-  version: v1alpha1
+  group: aws.ssc.abc.com
+  version: v1
   names:
     kind: S3
     plural: s3s
   scope: Namespaced
-  validation:
-    openAPIV3Schema:
-      properties:
-        spec:
-          properties:
-            replicas:
-              type: integer
-              minimum: 1
-              maximum: 1
+
+---
+apiVersion: apiextensions.k8s.io/v1beta1
+kind: CustomResourceDefinition
+metadata:
+  name: sqs.aws.ssc.abc.com
+
+spec:
+  group: aws.ssc.abc.com
+  version: v1
+  names:
+    kind: SQS
+    plural: sqs
+  scope: Namespaced
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mas
+
+---
+apiVersion: rbac.authorization.k8s.io/v1beta1
+kind: ClusterRoleBinding
+metadata:
+  name: mas
+  labels:
+    component: ssc
+subjects:
+  - kind: ServiceAccount
+    namespace: mas-server
+    name: ssc
+roleRef:
+  kind: ClusterRole
+  name: cluster-admin
+  apiGroup: rbac.authorization.k8s.io

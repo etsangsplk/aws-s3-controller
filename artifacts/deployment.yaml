@@ -1,0 +1,39 @@
+
+---
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  namespace: mas-server
+  name: ssc
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        component: ssc
+    spec:
+      restartPolicy: Always
+      serviceAccountName: ssc
+      containers:
+        - name: ssc
+          image: gcr.io/heptio-images/ssc:latest
+          command:
+            - /ssc
+          args:
+            - server
+            - --namespace
+            - heptio-ssc
+          volumeMounts:
+            - name: cloud-credentials
+              mountPath: /credentials
+            - name: plugins
+              mountPath: /plugins
+          env:
+            - name: AWS_SHARED_CREDENTIALS_FILE
+              value: /credentials/cloud
+      volumes:
+        - name: cloud-credentials
+          secret:
+            secretName: cloud-credentials
+        - name: plugins
+          emptyDir: {}
