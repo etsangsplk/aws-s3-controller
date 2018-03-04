@@ -1,0 +1,17 @@
+apiVersion: apiextensions.k8s.io/v1beta1
+kind: S3
+metadata:
+  annotations:
+    resource: "sqs"
+    tenant: "default"
+    iam
+  name: aws-s3-controller
+  namespace: vice-president
+spec:
+  parameters:
+    bucketname: abc
+    path: abc
+    iamrole: abc
+    region: abc
+  encryption:
+    kmskeyarn: abc

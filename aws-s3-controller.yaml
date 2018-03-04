@@ -1,0 +1,8 @@
+apiVersion: aws.ssc.splunk.com
+kind: S3
+metadata:
+  name: s3
+  cloudprovider: aws
+spec:
+  deploymentName: aws-s3
+  replicas: 1

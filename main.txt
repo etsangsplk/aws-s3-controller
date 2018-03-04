@@ -1,0 +1,772 @@
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/github.com/emicklei/go-restful-swagger12.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/github.com/emicklei/go-restful.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/golang.org/x/crypto/ssh/terminal.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/golang.org/x/net/http2/hpack.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/golang.org/x/net/http2.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/golang.org/x/net/idna.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/golang.org/x/sys/unix.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/gopkg.in/inf.v0.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/api/meta.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/api/resource.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/apimachinery/registered.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/apis/meta/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/fields.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/openapi.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/runtime/serializer/json.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/runtime/serializer/protobuf.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/util/framer.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/util/net.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/util/validation.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/apimachinery/pkg/util/yaml.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/discovery.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/admissionregistration/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/admissionregistration.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/apps/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/apps.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/autoscaling/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/autoscaling/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/autoscaling.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/batch/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/batch/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/batch.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/certificates/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/certificates.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/core/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/core.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/extensions/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/extensions.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/internalinterfaces.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/networking/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/networking.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/policy/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/policy.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/rbac/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/rbac/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/rbac.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/settings/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/settings.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/storage/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/storage/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers/storage.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/informers.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/admissionregistration/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/apps/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/authentication/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/authentication/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/authorization/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/authorization/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/autoscaling/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/autoscaling/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/batch/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/batch/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/certificates/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/core/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/extensions/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/networking/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/policy/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/rbac/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/rbac/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/settings/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/storage/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes/typed/storage/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/kubernetes.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/apps/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/autoscaling/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/batch/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/batch/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/core/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/extensions/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/policy/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/listers/settings/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/api/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/api.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/apps/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/apps.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/autoscaling/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/autoscaling/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/autoscaling.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/batch/v1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/batch/v2alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/batch.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/extensions/v1beta1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/extensions.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/settings/v1alpha1.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/pkg/apis/settings.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/rest.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/tools/auth.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/tools/cache.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/tools/clientcmd.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/transport.a matches
+Binary file ./.go/pkg/linux_amd64_static/github.com/jbeda/tgik-controller/vendor/k8s.io/client-go/util/cert.a matches
+Binary file ./.go/std/amd64/bufio.a matches
+Binary file ./.go/std/amd64/crypto/cipher.a matches
+Binary file ./.go/std/amd64/crypto/tls.a matches
+Binary file ./.go/std/amd64/crypto/x509.a matches
+Binary file ./.go/std/amd64/go/doc.a matches
+Binary file ./.go/std/amd64/math.a matches
+Binary file ./.go/std/amd64/net/http/httptrace.a matches
+Binary file ./.go/std/amd64/net/http.a matches
+Binary file ./.go/std/amd64/net/rpc.a matches
+Binary file ./.go/std/amd64/net.a matches
+Binary file ./.go/std/amd64/runtime.a matches
+Binary file ./.go/std/amd64/syscall.a matches
+Binary file ./.go/std/amd64/vendor/golang_org/x/net/http2/hpack.a matches
+Binary file ./.go/std/amd64/vendor/golang_org/x/net/idna.a matches
+Binary file ./bin/amd64/tgik-controller matches
+./controller.go:1:package main
+./LICENSE:44:      of this License, Derivative Works shall not include works that remain
+grep: input file ‘./main.txt’ is also the output
+./tgik-controller.go:1:package main
+./tgik-controller.go:18:func main() {
+./vendor/github.com/davecgh/go-spew/spew/doc.go:132:	(main.Foo) {
+./vendor/github.com/davecgh/go-spew/spew/doc.go:133:	 unexportedField: (*main.Bar)(0xf84002e210)({
+./vendor/github.com/davecgh/go-spew/spew/doc.go:134:	  flag: (main.Flag) flagTwo,
+./vendor/github.com/davecgh/go-spew/spew/doc.go:189:	 %#v: (*main.circular){ui8:(uint8)1 c:(*main.circular)<shown>}
+./vendor/github.com/davecgh/go-spew/spew/doc.go:190:	%#+v: (*main.circular)(0xf84003e260){ui8:(uint8)1 c:(*main.circular)(0xf84003e260)<shown>}
+./vendor/github.com/davecgh/go-spew/spew/dump.go:247:// dump is the main workhorse for dumping a value.  It uses the passed reflect
+./vendor/github.com/davecgh/go-spew/spew/format.go:197:// format is the main workhorse for providing the Formatter interface.  It
+./vendor/github.com/docker/distribution/digest/doc.go:27:// The main benefit of using the Digest type is simple verification against a
+./vendor/github.com/docker/distribution/LICENSE:44:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/docker/distribution/reference/reference.go:2:// Its main purpose is to abstract tags and digests (content-addressable hash).
+./vendor/github.com/emicklei/go-restful/.gitignore:20:_testmain.go
+./vendor/github.com/emicklei/go-restful/CHANGES.md:106:- (api add) added AllowedDomains in CORS
+./vendor/github.com/emicklei/go-restful/CHANGES.md:120:- (api add) CORS can be configured with a list of allowed domains
+./vendor/github.com/emicklei/go-restful/cors_filter.go:15:// to make XMLHttpRequests to another domain, not the domain the JavaScript originated from.
+./vendor/github.com/emicklei/go-restful/cors_filter.go:23:	AllowedDomains []string // list of allowed values for Http Origin. An allowed value can be a regular expression to support subdomain matching. If empty all are allowed.
+./vendor/github.com/emicklei/go-restful/cors_filter.go:45:			traceLogger.Printf("HTTP Origin:%s is not part of %v, neither matches any part of %v", origin, c.AllowedDomains, c.allowedOriginPatterns)
+./vendor/github.com/emicklei/go-restful/cors_filter.go:122:	if len(c.AllowedDomains) == 0 {
+./vendor/github.com/emicklei/go-restful/cors_filter.go:127:	for _, domain := range c.AllowedDomains {
+./vendor/github.com/emicklei/go-restful/cors_filter.go:128:		if domain == origin {
+./vendor/github.com/emicklei/go-restful/cors_filter.go:136:			// compile allowed domains to allowed origin patterns
+./vendor/github.com/emicklei/go-restful/cors_filter.go:137:			allowedOriginRegexps, err := compileRegexps(c.AllowedDomains)
+./vendor/github.com/emicklei/go-restful/curly.go:79:				matchesToken, matchesRemainder := c.regularMatchesPathToken(routeToken, colon, requestToken)
+./vendor/github.com/emicklei/go-restful/curly.go:83:				if matchesRemainder {
+./vendor/github.com/emicklei/go-restful/curly.go:97:// regularMatchesPathToken tests whether the regular expression part of routeToken matches the requestToken or all remaining tokens
+./vendor/github.com/emicklei/go-restful/curly.go:99:func (c CurlyRouter) regularMatchesPathToken(routeToken string, colon int, requestToken string) (matchesToken bool, matchesRemainder bool) {
+./vendor/github.com/emicklei/go-restful/jsr311.go:103:func (r RouterJSR311) selectRoutes(dispatcher *WebService, pathRemainder string) []Route {
+./vendor/github.com/emicklei/go-restful/jsr311.go:107:		matches := pathExpr.Matcher.FindStringSubmatch(pathRemainder)
+./vendor/github.com/emicklei/go-restful/jsr311.go:118:			traceLogger.Printf("WebService on path %s has no routes that match URL path remainder:%s\n", dispatcher.rootPath, pathRemainder)
+./vendor/github.com/emicklei/go-restful/jsr311.go:128:		if each.route.pathExpr.Matcher.MatchString(pathRemainder) {
+./vendor/github.com/emicklei/go-restful-swagger12/api_declaration_list.go:12:// ApiDeclarationList maintains an ordered list of ApiDeclaration.
+./vendor/github.com/emicklei/go-restful-swagger12/model_property_ext.go:40:		// overriden type to the array item instead of the main property
+./vendor/github.com/ghodss/yaml/fields.go:273:	// All remaining fields have the same length. If there's more than one,
+./vendor/github.com/ghodss/yaml/README.md:58:func main() {
+./vendor/github.com/ghodss/yaml/README.md:94:func main() {
+./vendor/github.com/go-openapi/analysis/analyzer.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT.md:6:contributors and maintainers pledge to making participation in our project and
+./vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT.md:36:Project maintainers are responsible for clarifying the standards of acceptable
+./vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT.md:40:Project maintainers have the right and responsibility to remove, edit, or
+./vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT.md:53:further defined and clarified by project maintainers.
+./vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT.md:61:obligated to maintain confidentiality with regard to the reporter of an incident.
+./vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT.md:64:Project maintainers who do not follow or enforce the Code of Conduct in good
+./vendor/github.com/go-openapi/analysis/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT.md:6:contributors and maintainers pledge to making participation in our project and
+./vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT.md:36:Project maintainers are responsible for clarifying the standards of acceptable
+./vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT.md:40:Project maintainers have the right and responsibility to remove, edit, or
+./vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT.md:53:further defined and clarified by project maintainers.
+./vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT.md:61:obligated to maintain confidentiality with regard to the reporter of an incident.
+./vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT.md:64:Project maintainers who do not follow or enforce the Code of Conduct in good
+./vendor/github.com/go-openapi/jsonpointer/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT.md:6:contributors and maintainers pledge to making participation in our project and
+./vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT.md:36:Project maintainers are responsible for clarifying the standards of acceptable
+./vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT.md:40:Project maintainers have the right and responsibility to remove, edit, or
+./vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT.md:53:further defined and clarified by project maintainers.
+./vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT.md:61:obligated to maintain confidentiality with regard to the reporter of an incident.
+./vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT.md:64:Project maintainers who do not follow or enforce the Code of Conduct in good
+./vendor/github.com/go-openapi/jsonreference/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT.md:6:contributors and maintainers pledge to making participation in our project and
+./vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT.md:36:Project maintainers are responsible for clarifying the standards of acceptable
+./vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT.md:40:Project maintainers have the right and responsibility to remove, edit, or
+./vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT.md:53:further defined and clarified by project maintainers.
+./vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT.md:61:obligated to maintain confidentiality with regard to the reporter of an incident.
+./vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT.md:64:Project maintainers who do not follow or enforce the Code of Conduct in good
+./vendor/github.com/go-openapi/loads/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/go-openapi/loads/spec.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/bindata.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT.md:6:contributors and maintainers pledge to making participation in our project and
+./vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT.md:36:Project maintainers are responsible for clarifying the standards of acceptable
+./vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT.md:40:Project maintainers have the right and responsibility to remove, edit, or
+./vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT.md:53:further defined and clarified by project maintainers.
+./vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT.md:61:obligated to maintain confidentiality with regard to the reporter of an incident.
+./vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT.md:64:Project maintainers who do not follow or enforce the Code of Conduct in good
+./vendor/github.com/go-openapi/spec/contact_info.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/expander.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/external_docs.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/header.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/info.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/items.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/go-openapi/spec/license.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/operation.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/parameter.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/path_item.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/paths.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/ref.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/response.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/responses.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/schema.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/security_scheme.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/spec.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/swagger.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/tag.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/spec/xml_object.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md:6:contributors and maintainers pledge to making participation in our project and
+./vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md:36:Project maintainers are responsible for clarifying the standards of acceptable
+./vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md:40:Project maintainers have the right and responsibility to remove, edit, or
+./vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md:53:further defined and clarified by project maintainers.
+./vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md:61:obligated to maintain confidentiality with regard to the reporter of an incident.
+./vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md:64:Project maintainers who do not follow or enforce the Code of Conduct in good
+./vendor/github.com/go-openapi/swag/convert.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/swag/json.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/swag/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/go-openapi/swag/loading.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/swag/path.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/go-openapi/swag/util.go:1:// Copyright 2015 go-swagger maintainers
+./vendor/github.com/gogo/protobuf/proto/encode.go:1336:// errorState maintains the first error that occurs and updates that error
+./vendor/github.com/gogo/protobuf/proto/lib.go:225:	package main
+./vendor/github.com/gogo/protobuf/proto/lib.go:234:	func main() {
+./vendor/github.com/gogo/protobuf/proto/text.go:627:// These differences are to maintain interoperability with the other
+./vendor/github.com/gogo/protobuf/proto/text.go:841:	remain := w.ind * 2
+./vendor/github.com/gogo/protobuf/proto/text.go:842:	for remain > 0 {
+./vendor/github.com/gogo/protobuf/proto/text.go:843:		n := remain
+./vendor/github.com/gogo/protobuf/proto/text.go:848:		remain -= n
+./vendor/github.com/gogo/protobuf/proto/text_parser.go:86:	s            string // remaining input
+./vendor/github.com/golang/glog/glog.go:429:	// freeList is a list of byte buffers, maintained under freeListMu.
+./vendor/github.com/golang/glog/glog.go:431:	// freeListMu maintains the free list. It is separate from the main mutex
+./vendor/github.com/golang/glog/glog.go:432:	// so buffers can be grabbed and printed to without holding the main lock,
+./vendor/github.com/golang/glog/glog.go:436:	// mu protects the remaining elements of this structure and is
+./vendor/github.com/golang/glog/LICENSE:41:shall not include works that remain separable from, or merely link (or bind by
+./vendor/github.com/google/gofuzz/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/github.com/hashicorp/golang-lru/.gitignore:20:_testmain.go
+./vendor/github.com/hashicorp/golang-lru/LICENSE:296:   of a jurisdiction where the defendant maintains its principal place of
+./vendor/github.com/howeyc/gopass/OPENSOLARIS.LICENSE:279:    Provisions which, by their nature, must remain in effect beyond
+./vendor/github.com/howeyc/gopass/README.md:9:package main
+./vendor/github.com/howeyc/gopass/README.md:14:func main() {
+./vendor/github.com/juju/ratelimit/LICENSE:84:   whatever part of its purpose remains meaningful, or
+./vendor/github.com/mailru/easyjson/jlexer/lexer.go:159:// fetchNull fetches and checks remaining bytes of null keyword.
+./vendor/github.com/mailru/easyjson/jlexer/lexer.go:173:// fetchTrue fetches and checks remaining bytes of true keyword.
+./vendor/github.com/mailru/easyjson/jlexer/lexer.go:187:// fetchFalse fetches and checks remaining bytes of false keyword.
+./vendor/github.com/PuerkitoBio/purell/README.md:140:*    The *replace IP with domain name* normalization (`http://208.77.188.166/ → http://www.example.com/`) is obviously not possible for a library without making some network requests. This is not implemented in purell.
+./vendor/github.com/spf13/pflag/flag.go:491:// `i` runes in length and the remainder. Will go `slop` over `i` if
+./vendor/github.com/spf13/pflag/flag.go:535:	// remainder of the line.
+./vendor/github.com/spf13/pflag/flag.go:659:// Arg returns the i'th argument.  Arg(0) is the first remaining argument
+./vendor/github.com/spf13/pflag/flag.go:668:// Arg returns the i'th command-line argument.  Arg(0) is the first remaining argument
+./vendor/github.com/spf13/pflag/flag.go:674:// NArg is the number of arguments remaining after flags have been processed.
+./vendor/github.com/spf13/pflag/flag.go:677:// NArg is the number of arguments remaining after flags have been processed.
+./vendor/github.com/spf13/pflag/golangflag.go:13:// flagValueWrapper implements pflag.Value around a flag.Value.  The main
+./vendor/github.com/spf13/pflag/README.md:262:func main() {
+./vendor/github.com/ugorji/go/codec/0doc.go:114:      This allows you use state maintained on the Encoder/Decoder.
+./vendor/github.com/ugorji/go/codec/decode.go:814:			// read remaining values and throw away
+./vendor/github.com/ugorji/go/codec/gen.go:96:// v5: changes to support faster json decoding. Let encoder/decoder maintain state of collections.
+./vendor/github.com/ugorji/go/codec/gen.go:1556:	// read remaining values and throw away.
+./vendor/github.com/ugorji/go/codec/helper_internal.go:163:	// maintain 3 thresholds:
+./vendor/github.com/ugorji/go/codec/msgpack.go:8:We need to maintain compatibility with it and how it encodes integer values
+./vendor/github.com/ugorji/go/codec/prebuild.sh:93:package main
+./vendor/github.com/ugorji/go/codec/prebuild.sh:110:func main() {
+./vendor/github.com/ugorji/go/codec/prebuild.sh:131:        # codecgen creates some temporary files in the directory (main, pkg).
+./vendor/github.com/ugorji/go/codec/prebuild.sh:181:# main script.
+./vendor/github.com/ugorji/go/codec/test.py:124:if __name__ == "__main__":
+./vendor/golang.org/x/crypto/AUTHORS:2:# The master list of authors is in the main Go distribution,
+./vendor/golang.org/x/crypto/CONTRIBUTORS:2:# The master list of contributors is in the main Go distribution,
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:80:	// remainder contains the remainder of any partial key sequences after
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:82:	remainder []byte
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:139:// the key and the remainder of the input. Otherwise it returns utf8.RuneError.
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:585:		remainingOnLine := t.termWidth - t.cursorX
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:587:		if todo > remainingOnLine {
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:588:			todo = remainingOnLine
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:679:		rest := t.remainder
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:711:			t.remainder = t.inBuf[:n]
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:713:			t.remainder = nil
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:728:		// t.remainder is a slice at the beginning of t.inBuf
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:730:		readBuf := t.inBuf[len(t.remainder):]
+./vendor/golang.org/x/crypto/ssh/terminal/terminal.go:741:		t.remainder = t.inBuf[:n+len(t.remainder)]
+./vendor/golang.org/x/net/AUTHORS:2:# The master list of authors is in the main Go distribution,
+./vendor/golang.org/x/net/CONTRIBUTORS:2:# The master list of contributors is in the main Go distribution,
+./vendor/golang.org/x/net/http2/flow.go:44:	remain := (1<<31 - 1) - f.n
+./vendor/golang.org/x/net/http2/flow.go:45:	if n > remain {
+./vendor/golang.org/x/net/http2/frame.go:1282:func readByte(p []byte) (remain []byte, b byte, err error) {
+./vendor/golang.org/x/net/http2/frame.go:1289:func readUint32(p []byte) (remain []byte, v uint32, err error) {
+./vendor/golang.org/x/net/http2/frame.go:1419:	var remainSize = fr.maxHeaderListSize()
+./vendor/golang.org/x/net/http2/frame.go:1451:		if size > remainSize {
+./vendor/golang.org/x/net/http2/frame.go:1456:		remainSize -= size
+./vendor/golang.org/x/net/http2/hpack/hpack.go:465:// The returned remain buffer is either a smaller suffix of p, or err != nil.
+./vendor/golang.org/x/net/http2/hpack/hpack.go:467:func readVarInt(n byte, p []byte) (i uint64, remain []byte, err error) {
+./vendor/golang.org/x/net/http2/hpack/hpack.go:508:func (d *Decoder) readString(p []byte, wantStr bool) (s string, remain []byte, err error) {
+./vendor/golang.org/x/net/http2/hpack/huffman.go:183:// returns the extended buffer and the remaining bits in the last
+./vendor/golang.org/x/net/http2/hpack/huffman.go:184:// element. The appending is not byte aligned and the remaining bits
+./vendor/golang.org/x/net/http2/server.go:983:// Request.Body when the main goroutine panics. Since most handlers read in the
+./vendor/golang.org/x/net/http2/server.go:984:// the main ServeHTTP goroutine, this will show up rarely.
+./vendor/golang.org/x/net/http2/server.go:1396:	// maintains by the difference between the new value and the
+./vendor/golang.org/x/net/http2/transport.go:200:	bytesRemain int64 // -1 means unknown; owned by transportResponseBody.Read
+./vendor/golang.org/x/net/http2/transport.go:961:		remain := buf[:n]
+./vendor/golang.org/x/net/http2/transport.go:962:		for len(remain) > 0 && err == nil {
+./vendor/golang.org/x/net/http2/transport.go:964:			allowed, err = cs.awaitFlowControl(len(remain))
+./vendor/golang.org/x/net/http2/transport.go:975:			data := remain[:allowed]
+./vendor/golang.org/x/net/http2/transport.go:976:			remain = remain[allowed:]
+./vendor/golang.org/x/net/http2/transport.go:977:			sentEnd = sawEOF && len(remain) == 0 && !hasTrailers
+./vendor/golang.org/x/net/http2/transport.go:1533:	cs.bytesRemain = res.ContentLength
+./vendor/golang.org/x/net/http2/transport.go:1590:	if cs.bytesRemain != -1 {
+./vendor/golang.org/x/net/http2/transport.go:1591:		if int64(n) > cs.bytesRemain {
+./vendor/golang.org/x/net/http2/transport.go:1592:			n = int(cs.bytesRemain)
+./vendor/golang.org/x/net/http2/transport.go:1598:			return int(cs.bytesRemain), err
+./vendor/golang.org/x/net/http2/transport.go:1600:		cs.bytesRemain -= int64(n)
+./vendor/golang.org/x/net/http2/transport.go:1601:		if err == io.EOF && cs.bytesRemain > 0 {
+./vendor/golang.org/x/net/http2/writesched.go:96:// 'rest' contains the remaining bytes. The consumed bytes are deducted from the
+./vendor/golang.org/x/net/http2/writesched.go:126:				// are bytes remaining because len(wd.p) > allowed,
+./vendor/golang.org/x/net/idna/idna.go:5:// Package idna implements IDNA2008 (Internationalized Domain Names for
+./vendor/golang.org/x/net/idna/idna.go:21:// ToASCII converts a domain or domain label to its ASCII form. For example,
+./vendor/golang.org/x/net/idna/idna.go:41:// ToUnicode converts a domain or domain label to its Unicode form. For example,
+./vendor/golang.org/x/net/idna/punycode.go:97:// remaining != 0" in the Go code, because len(s) in Go is in bytes, not runes.
+./vendor/golang.org/x/net/idna/punycode.go:102:	b, remaining := int32(0), int32(0)
+./vendor/golang.org/x/net/idna/punycode.go:108:			remaining++
+./vendor/golang.org/x/net/idna/punycode.go:115:	for remaining != 0 {
+./vendor/golang.org/x/net/idna/punycode.go:156:			remaining--
+./vendor/golang.org/x/sys/AUTHORS:2:# The master list of authors is in the main Go distribution,
+./vendor/golang.org/x/sys/CONTRIBUTORS:2:# The master list of contributors is in the main Go distribution,
+./vendor/golang.org/x/sys/unix/mkerrors.sh:431:main(void)
+./vendor/golang.org/x/sys/unix/mkpost.go:12:package main
+./vendor/golang.org/x/sys/unix/mkpost.go:23:func main() {
+./vendor/golang.org/x/sys/unix/syscall_bsd.go:140://sysnb	socket(domain int, typ int, proto int) (fd int, err error)
+./vendor/golang.org/x/sys/unix/syscall_bsd.go:312://sysnb socketpair(domain int, typ int, proto int, fd *[2]int32) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux.go:447:			// "Abstract" Unix domain socket.
+./vendor/golang.org/x/sys/unix/syscall_linux.go:457:		// abstract Unix domain sockets--they are supposed
+./vendor/golang.org/x/sys/unix/syscall_linux.go:695:	// Remainder.
+./vendor/golang.org/x/sys/unix/syscall_linux.go:924://sys	Setdomainname(p []byte) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_386.go:252:func socketpair(domain int, typ int, flags int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/syscall_linux_386.go:253:	_, e := rawsocketcall(_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(flags), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/syscall_linux_386.go:276:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/syscall_linux_386.go:277:	fd, e := rawsocketcall(_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto), 0, 0, 0)
+./vendor/golang.org/x/sys/unix/syscall_linux_amd64.go:56://sysnb	socket(domain int, typ int, proto int) (fd int, err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_amd64.go:57://sysnb	socketpair(domain int, typ int, proto int, fd *[2]int32) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_arm.go:75://sysnb	socket(domain int, typ int, proto int) (fd int, err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_arm.go:80://sysnb	socketpair(domain int, typ int, flags int, fd *[2]int32) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_arm64.go:61://sysnb	socket(domain int, typ int, proto int) (fd int, err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_arm64.go:62://sysnb	socketpair(domain int, typ int, proto int, fd *[2]int32) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_mips64x.go:54://sysnb	socket(domain int, typ int, proto int) (fd int, err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_mips64x.go:55://sysnb	socketpair(domain int, typ int, proto int, fd *[2]int32) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_ppc64x.go:54://sysnb	socket(domain int, typ int, proto int) (fd int, err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_ppc64x.go:55://sysnb	socketpair(domain int, typ int, proto int, fd *[2]int32) (err error)
+./vendor/golang.org/x/sys/unix/syscall_linux_s390x.go:206:func socketpair(domain int, typ int, flags int, fd *[2]int32) error {
+./vendor/golang.org/x/sys/unix/syscall_linux_s390x.go:207:	args := [4]uintptr{uintptr(domain), uintptr(typ), uintptr(flags), uintptr(unsafe.Pointer(fd))}
+./vendor/golang.org/x/sys/unix/syscall_linux_s390x.go:233:func socket(domain int, typ int, proto int) (int, error) {
+./vendor/golang.org/x/sys/unix/syscall_linux_s390x.go:234:	args := [3]uintptr{uintptr(domain), uintptr(typ), uintptr(proto)}
+./vendor/golang.org/x/sys/unix/syscall_netbsd.go:306:// compat_09_ogetdomainname
+./vendor/golang.org/x/sys/unix/syscall_netbsd.go:307:// compat_09_osetdomainname
+./vendor/golang.org/x/sys/unix/syscall_solaris.go:385:		// abstract Unix domain sockets -- they are supposed
+./vendor/golang.org/x/sys/unix/syscall_solaris.go:672://sys	socket(domain int, typ int, proto int) (fd int, err error) = libsocket.socket
+./vendor/golang.org/x/sys/unix/syscall_solaris.go:673://sysnb	socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) = libsocket.socketpair
+./vendor/golang.org/x/sys/unix/syscall_unix.go:256:func Socket(domain, typ, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/syscall_unix.go:257:	if domain == AF_INET6 && SocketDisableIPv6 {
+./vendor/golang.org/x/sys/unix/syscall_unix.go:260:	fd, err = socket(domain, typ, proto)
+./vendor/golang.org/x/sys/unix/syscall_unix.go:264:func Socketpair(domain, typ, proto int) (fd [2]int, err error) {
+./vendor/golang.org/x/sys/unix/syscall_unix.go:266:	err = socketpair(domain, typ, proto, &fdx)
+./vendor/golang.org/x/sys/unix/zerrors_darwin_386.go:1467:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_darwin_amd64.go:1467:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_darwin_arm64.go:1467:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_dragonfly_amd64.go:1425:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_freebsd_386.go:1642:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_freebsd_amd64.go:1647:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_freebsd_arm.go:1628:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_386.go:1685:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_amd64.go:1686:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_arm.go:1609:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_arm64.go:1763:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_mips64.go:1780:	33:   "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_mips64le.go:1780:	33:   "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_ppc64.go:1835:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_ppc64le.go:1834:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_linux_s390x.go:1893:	33:  "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_netbsd_386.go:1612:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_netbsd_amd64.go:1602:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_netbsd_arm.go:1588:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_openbsd_386.go:1489:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_openbsd_amd64.go:1488:	33: "numerical argument out of domain",
+./vendor/golang.org/x/sys/unix/zerrors_solaris_amd64.go:1302:	33:  "argument out of domain",
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_386.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_386.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_386.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_386.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_amd64.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_darwin_arm64.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_dragonfly_amd64.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_dragonfly_amd64.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_dragonfly_amd64.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_dragonfly_amd64.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_386.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_386.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_386.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_386.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_amd64.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_amd64.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_amd64.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_amd64.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_arm.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_arm.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_arm.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_freebsd_arm.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_386.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go:1704:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go:1705:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go:1715:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go:1716:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go:1296:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go:1297:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go:1360:func socketpair(domain int, typ int, flags int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go:1361:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(flags), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go:1611:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go:1612:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go:1622:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go:1623:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go:1611:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go:1612:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go:1622:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go:1623:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go:1611:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go:1612:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go:1622:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go:1623:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go:1694:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go:1695:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go:1705:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go:1706:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go:1694:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go:1695:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go:1705:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go:1706:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_linux_s390x.go:846:func Setdomainname(p []byte) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_386.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_386.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_386.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_386.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_amd64.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_amd64.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_amd64.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_amd64.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_386.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.go:80:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.go:81:	r0, _, e1 := RawSyscall(SYS_SOCKET, uintptr(domain), uintptr(typ), uintptr(proto))
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.go:141:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_openbsd_amd64.go:142:	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_solaris_amd64.go:1525:func socket(domain int, typ int, proto int) (fd int, err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_solaris_amd64.go:1526:	r0, _, e1 := sysvicall6(uintptr(unsafe.Pointer(&procsocket)), 3, uintptr(domain), uintptr(typ), uintptr(proto), 0, 0, 0)
+./vendor/golang.org/x/sys/unix/zsyscall_solaris_amd64.go:1534:func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+./vendor/golang.org/x/sys/unix/zsyscall_solaris_amd64.go:1535:	_, _, e1 := rawSysvicall6(uintptr(unsafe.Pointer(&procsocketpair)), 4, uintptr(domain), uintptr(typ), uintptr(proto), uintptr(unsafe.Pointer(fd)), 0, 0)
+./vendor/golang.org/x/sys/unix/zsysctl_openbsd.go:50:	{"kern.domainname", []_C_int{1, 22}},
+./vendor/golang.org/x/sys/unix/zsysnum_dragonfly_amd64.go:84:	SYS_SOCKET        = 97  // { int socket(int domain, int type, int protocol); }
+./vendor/golang.org/x/sys/unix/zsysnum_dragonfly_amd64.go:105:	SYS_SOCKETPAIR    = 135 // { int socketpair(int domain, int type, int protocol, \
+./vendor/golang.org/x/sys/unix/zsysnum_dragonfly_amd64.go:115:	SYS_GETDOMAINNAME = 162 // { int getdomainname(char *domainname, int len); }
+./vendor/golang.org/x/sys/unix/zsysnum_dragonfly_amd64.go:116:	SYS_SETDOMAINNAME = 163 // { int setdomainname(char *domainname, int len); }
+./vendor/golang.org/x/sys/unix/zsysnum_freebsd_386.go:84:	SYS_SOCKET                   = 97  // { int socket(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_freebsd_386.go:105:	SYS_SOCKETPAIR               = 135 // { int socketpair(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_freebsd_amd64.go:84:	SYS_SOCKET                   = 97  // { int socket(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_freebsd_amd64.go:105:	SYS_SOCKETPAIR               = 135 // { int socketpair(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_freebsd_arm.go:84:	SYS_SOCKET                   = 97  // { int socket(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_freebsd_arm.go:105:	SYS_SOCKETPAIR               = 135 // { int socketpair(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_netbsd_386.go:89:	SYS_SOCKETPAIR           = 135 // { int|sys||socketpair(int domain, int type, int protocol, int *rsv); }
+./vendor/golang.org/x/sys/unix/zsysnum_netbsd_386.go:209:	SYS_SOCKET               = 394 // { int|sys|30|socket(int domain, int type, int protocol); }
+./vendor/golang.org/x/sys/unix/zsysnum_netbsd_amd64.go:89:	SYS_SOCKETPAIR           = 135 // { int|sys||socketpair(int domain, int type, int protocol, int *rsv); }
+./vendor/golang.org/x/sys/unix/zsysnum_netbsd_amd64.go:209:	SYS_SOCKET               = 394 // { int|sys|30|socket(int domain, int type, int protocol); }
+./vendor/golang.org/x/sys/unix/zsysnum_netbsd_arm.go:89:	SYS_SOCKETPAIR           = 135 // { int|sys||socketpair(int domain, int type, int protocol, int *rsv); }
+./vendor/golang.org/x/sys/unix/zsysnum_netbsd_arm.go:209:	SYS_SOCKET               = 394 // { int|sys|30|socket(int domain, int type, int protocol); }
+./vendor/golang.org/x/sys/unix/zsysnum_openbsd_386.go:101:	SYS_SOCKET         = 97  // { int sys_socket(int domain, int type, int protocol); }
+./vendor/golang.org/x/sys/unix/zsysnum_openbsd_386.go:124:	SYS_SOCKETPAIR     = 135 // { int sys_socketpair(int domain, int type, \
+./vendor/golang.org/x/sys/unix/zsysnum_openbsd_amd64.go:101:	SYS_SOCKET         = 97  // { int sys_socket(int domain, int type, int protocol); }
+./vendor/golang.org/x/sys/unix/zsysnum_openbsd_amd64.go:124:	SYS_SOCKETPAIR     = 135 // { int sys_socketpair(int domain, int type, \
+./vendor/golang.org/x/sys/unix/ztypes_linux_386.go:575:	Domainname [65]int8
+./vendor/golang.org/x/sys/unix/ztypes_linux_amd64.go:591:	Domainname [65]int8
+./vendor/golang.org/x/sys/unix/ztypes_linux_arm.go:554:	Domainname [65]uint8
+./vendor/golang.org/x/sys/unix/ztypes_linux_arm64.go:569:	Domainname [65]int8
+./vendor/golang.org/x/sys/unix/ztypes_linux_mips64.go:574:	Domainname [65]int8
+./vendor/golang.org/x/sys/unix/ztypes_linux_mips64le.go:574:	Domainname [65]int8
+./vendor/golang.org/x/sys/unix/ztypes_linux_ppc64.go:579:	Domainname [65]uint8
+./vendor/golang.org/x/sys/unix/ztypes_linux_ppc64le.go:579:	Domainname [65]uint8
+./vendor/golang.org/x/sys/unix/ztypes_linux_s390x.go:594:	Domainname [65]int8
+./vendor/golang.org/x/text/AUTHORS:2:# The master list of authors is in the main Go distribution,
+./vendor/golang.org/x/text/cases/gen.go:12:package main
+./vendor/golang.org/x/text/cases/gen.go:31:func main() {
+./vendor/golang.org/x/text/cases/gen_trieval.go:7:package main
+./vendor/golang.org/x/text/cases/map.go:426:			// will remain so. See A.2.2.
+./vendor/golang.org/x/text/CONTRIBUTORS:2:# The master list of contributors is in the main Go distribution,
+./vendor/golang.org/x/text/language/gen_common.go:7:package main
+./vendor/golang.org/x/text/language/gen_index.go:7:package main
+./vendor/golang.org/x/text/language/gen_index.go:35:func main() {
+./vendor/golang.org/x/text/language/language.go:928:// TLD returns the country code top-level domain (ccTLD). UK is returned for GB.
+./vendor/golang.org/x/text/language/language.go:936:	// See http://en.wikipedia.org/wiki/Country_code_top-level_domain for the
+./vendor/golang.org/x/text/language/maketables.go:10:package main
+./vendor/golang.org/x/text/language/maketables.go:919:	r := gen.OpenIANAFile("domains/root/db")
+./vendor/golang.org/x/text/language/maketables.go:924:	re := regexp.MustCompile(`"/domains/root/db/([a-z]{2}).html"`)
+./vendor/golang.org/x/text/language/maketables.go:1610:func main() {
+./vendor/golang.org/x/text/secure/bidirule/bidirule.go:20:// Internationalized Domain Names for Applications (IDNA)
+./vendor/golang.org/x/text/secure/bidirule/bidirule.go:22:// A label is an individual component of a domain name.  Labels are usually
+./vendor/golang.org/x/text/secure/bidirule/bidirule.go:23:// shown separated by dots; for example, the domain name "www.example.com" is
+./vendor/golang.org/x/text/secure/bidirule/bidirule.go:29:// A "Bidi domain name" is a domain name that contains at least one RTL label.
+./vendor/golang.org/x/text/secure/bidirule/bidirule.go:33://  o  In a domain name consisting of only labels that satisfy the rule,
+./vendor/golang.org/x/text/secure/bidirule/bidirule.go:37://  o  In a domain name consisting of only LDH labels (as defined in the
+./vendor/golang.org/x/text/secure/precis/gen.go:10:package main
+./vendor/golang.org/x/text/secure/precis/gen.go:54:func main() {
+./vendor/golang.org/x/text/secure/precis/gen.go:158:	// innocent" approach. The main reason for this is that the check for
+./vendor/golang.org/x/text/secure/precis/gen_trieval.go:7:package main
+./vendor/golang.org/x/text/transform/transform.go:194:// for the next write. Call Close to convert the remaining bytes.
+./vendor/golang.org/x/text/transform/transform.go:198:		// Append bytes from data to the last remainder.
+./vendor/golang.org/x/text/transform/transform.go:239:				// Not enough buffer to store the remainder. Keep processing as
+./vendor/golang.org/x/text/transform/transform.go:395:				// and the bytes will remain unprocessed. lastFull is used to
+./vendor/golang.org/x/text/transform/transform.go:410:			// Verify we made some progress, move the remaining bytes to the errStart
+./vendor/golang.org/x/text/transform/transform.go:604:	// Transform the remaining input, growing dst and src buffers as necessary.
+./vendor/golang.org/x/text/unicode/bidi/bidi.go:151:// // Modifiers remain after the runes they modify.
+./vendor/golang.org/x/text/unicode/bidi/core.go:151:	// Run remainder of algorithm one isolating run sequence at a time
+./vendor/golang.org/x/text/unicode/bidi/core.go:471:// Note that some weak types (EN, AN) remain after this processing is
+./vendor/golang.org/x/text/unicode/bidi/core.go:475:	// on entry, only these types remain
+./vendor/golang.org/x/text/unicode/bidi/core.go:525:	// no effect on the remainder of the analysis.
+./vendor/golang.org/x/text/unicode/bidi/core.go:813:	// propagated backward, the main thing is not to introduce a level
+./vendor/golang.org/x/text/unicode/bidi/gen.go:7:package main
+./vendor/golang.org/x/text/unicode/bidi/gen.go:20:func main() {
+./vendor/golang.org/x/text/unicode/bidi/gen_ranges.go:7:package main
+./vendor/golang.org/x/text/unicode/bidi/gen_trieval.go:7:package main
+./vendor/golang.org/x/text/unicode/norm/composition.go:104:// the UTF-8 characters in order.  Only the rune array is maintained in sorted
+./vendor/golang.org/x/text/unicode/norm/iter.go:26:	multiSeg []byte // remainder of multi-segment decomposition
+./vendor/golang.org/x/text/unicode/norm/maketables.go:11:package main
+./vendor/golang.org/x/text/unicode/norm/maketables.go:28:func main() {
+./vendor/golang.org/x/text/unicode/norm/readwriter.go:17:// write. The remaining bytes will be written on close.
+./vendor/golang.org/x/text/unicode/norm/readwriter.go:34:		// Write out complete prefix, save remainder.
+./vendor/golang.org/x/text/unicode/norm/readwriter.go:51:// Close forces data that remains in the buffer to be written.
+./vendor/golang.org/x/text/unicode/norm/readwriter.go:64:// an internal buffer to maintain state across Write calls.
+./vendor/golang.org/x/text/unicode/norm/triegen.go:13:package main
+./vendor/golang.org/x/text/width/gen.go:9:package main
+./vendor/golang.org/x/text/width/gen.go:25:func main() {
+./vendor/golang.org/x/text/width/gen_common.go:7:package main
+./vendor/golang.org/x/text/width/gen_common.go:9:// This code is shared between the main code generator and the test code.
+./vendor/golang.org/x/text/width/gen_trieval.go:7:package main
+./vendor/golang.org/x/text/width/width.go:11:// each character and remain upright in vertical text layout. Narrow characters
+./vendor/gopkg.in/inf.v0/dec.go:263:	if r.UseRemainder() {
+./vendor/gopkg.in/inf.v0/dec.go:280:// calculated so that the remainder will be zero whenever x/y is a finite
+./vendor/gopkg.in/inf.v0/dec.go:287:// it sets remNum and remDen to the numerator and denominator of the remainder.
+./vendor/gopkg.in/inf.v0/dec.go:290:// The remainder is normalized to the range -1 < r < 1 to simplify rounding;
+./vendor/gopkg.in/inf.v0/dec.go:327:		// set remainder
+./vendor/gopkg.in/inf.v0/rounder.go:35:	// When UseRemainder() returns true, the Round() method is passed the
+./vendor/gopkg.in/inf.v0/rounder.go:36:	// remainder of the division, expressed as the numerator and denominator of
+./vendor/gopkg.in/inf.v0/rounder.go:38:	UseRemainder() bool
+./vendor/gopkg.in/inf.v0/rounder.go:44:	// When the remainder is not used, remNum and remDen are nil.
+./vendor/gopkg.in/inf.v0/rounder.go:45:	// When used, the remainder is normalized between -1 and 1; that is:
+./vendor/gopkg.in/inf.v0/rounder.go:59:func (r rndr) UseRemainder() bool {
+./vendor/gopkg.in/yaml.v2/LICENSE:81:   whatever part of its purpose remains meaningful, or
+./vendor/gopkg.in/yaml.v2/readerc.go:69:	// Move the remaining bytes in the raw buffer to the beginning.
+./vendor/gopkg.in/yaml.v2/README.md:39:The package API for yaml v2 will remain stable as described in [gopkg.in](https://gopkg.in).
+./vendor/gopkg.in/yaml.v2/README.md:52:package main
+./vendor/gopkg.in/yaml.v2/README.md:76:func main() {
+./vendor/gopkg.in/yaml.v2/scannerc.go:2198:		// Append the remaining line breaks.
+./vendor/k8s.io/apimachinery/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:39:	// The list of all matching resources is narrowed based on the patterns until only one remains.
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:45:	// The list of all matching kinds is narrowed based on the patterns until only one remains.
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:65:	remainingGVRs := append([]schema.GroupVersionResource{}, originalGVRs...)
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:68:		for _, gvr := range remainingGVRs {
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:84:			remainingGVRs = matchedGVRs
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:101:	remainingGVKs := append([]schema.GroupVersionKind{}, originalGVKs...)
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:104:		for _, gvr := range remainingGVKs {
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:120:			remainingGVKs = matchedGVKs
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:175:	remaining := append([]*RESTMapping{}, mappings...)
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:178:		for _, m := range remaining {
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:194:			remaining = matching
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:197:	if len(remaining) == 1 {
+./vendor/k8s.io/apimachinery/pkg/api/meta/priority.go:198:		return remaining[0], nil
+./vendor/k8s.io/apimachinery/pkg/api/resource/amount.go:117:		result, remainder, exact := divideByScaleInt64(b.value, a.scale-b.scale)
+./vendor/k8s.io/apimachinery/pkg/api/resource/amount.go:123:			case remainder == 0:
+./vendor/k8s.io/apimachinery/pkg/api/resource/amount.go:125:			case remainder > 0:
+./vendor/k8s.io/apimachinery/pkg/api/resource/amount.go:133:		result, remainder, exact := divideByScaleInt64(a.value, b.scale-a.scale)
+./vendor/k8s.io/apimachinery/pkg/api/resource/amount.go:139:			case remainder == 0:
+./vendor/k8s.io/apimachinery/pkg/api/resource/amount.go:141:			case remainder > 0:
+./vendor/k8s.io/apimachinery/pkg/api/resource/math.go:250:// negativeScaleInt64 returns the result of dividing base by scale * 10 and the remainder, or
+./vendor/k8s.io/apimachinery/pkg/api/resource/math.go:252:func divideByScaleInt64(base int64, scale Scale) (result, remainder int64, exact bool) {
+./vendor/k8s.io/apimachinery/pkg/api/resource/scale_int.go:85:	remainder := exp
+./vendor/k8s.io/apimachinery/pkg/api/resource/scale_int.go:88:	// remainder = unscaled % divisor
+./vendor/k8s.io/apimachinery/pkg/api/resource/scale_int.go:89:	result.DivMod(unscaled, divisor, remainder)
+./vendor/k8s.io/apimachinery/pkg/api/resource/scale_int.go:90:	if remainder.Sign() != 0 {
+./vendor/k8s.io/apimachinery/pkg/apimachinery/registered/registered.go:317:	remainingGroups := sets.String{}
+./vendor/k8s.io/apimachinery/pkg/apimachinery/registered/registered.go:320:			remainingGroups.Insert(enabledVersion.Group)
+./vendor/k8s.io/apimachinery/pkg/apimachinery/registered/registered.go:324:	remainingResourcePriority, remainingKindPriority := m.prioritiesForGroups(remainingGroups.List()...)
+./vendor/k8s.io/apimachinery/pkg/apimachinery/registered/registered.go:325:	resourcePriority = append(resourcePriority, remainingResourcePriority...)
+./vendor/k8s.io/apimachinery/pkg/apimachinery/registered/registered.go:326:	kindPriority = append(kindPriority, remainingKindPriority...)
+./vendor/k8s.io/apimachinery/pkg/apimachinery/types.go:68:// TODO: remove the "Interfaces" suffix and make this also maintain the
+./vendor/k8s.io/apimachinery/pkg/apis/meta/v1/generated.proto:159:  // Should the export be exact.  Exact export maintains cluster-specific fields like 'Namespace'.
+./vendor/k8s.io/apimachinery/pkg/apis/meta/v1/types.go:338:	// Should the export be exact.  Exact export maintains cluster-specific fields like 'Namespace'.
+./vendor/k8s.io/apimachinery/pkg/apis/meta/v1/types_swagger_doc_generated.go:101:	"exact":  "Should the export be exact.  Exact export maintains cluster-specific fields like 'Namespace'.",
+./vendor/k8s.io/apimachinery/pkg/fields/selector.go:371:		remaining := term[i:]
+./vendor/k8s.io/apimachinery/pkg/fields/selector.go:373:			if strings.HasPrefix(remaining, op) {
+./vendor/k8s.io/apimachinery/pkg/runtime/scheme.go:143:// converted. Thus unversioned objects are expected to remain backwards compatible forever, as if they were in an
+./vendor/k8s.io/apimachinery/pkg/types/nodename.go:42://   we are using a custom DHCP domain it won't be.
+./vendor/k8s.io/apimachinery/pkg/util/diff/diff.go:54:// the objects followed by the remaining part of 'a' and finally the remaining part of 'b'.
+./vendor/k8s.io/apimachinery/pkg/util/errors/errors.go:118:// remain a nil list is returned. The resulting silec will have all
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:51:	remaining int
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:74:	if r.remaining <= 0 {
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:84:		r.remaining = frameLength
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:87:	expect := r.remaining
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:93:	r.remaining -= n
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:94:	if err == io.ErrShortBuffer || r.remaining > 0 {
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:114:	remaining []byte
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:132:	// Return whatever remaining data exists from an in progress frame
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:133:	if n := len(r.remaining); n > 0 {
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:135:			data = append(data[0:0], r.remaining...)
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:136:			r.remaining = nil
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:141:		data = append(data[0:0], r.remaining[:n]...)
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:142:		r.remaining = r.remaining[n:]
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:156:	// the remaining result for subsequent reads.
+./vendor/k8s.io/apimachinery/pkg/util/framer/framer.go:159:		r.remaining = m[n:]
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:51:		} else if msgs := IsDNS1123Subdomain(prefix); len(msgs) != 0 {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:56:			" with an optional DNS subdomain prefix and '/' (e.g. 'example.com/MyName')")
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:109:const dns1123SubdomainFmt string = dns1123LabelFmt + "(\\." + dns1123LabelFmt + ")*"
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:110:const dns1123SubdomainErrorMsg string = "a DNS-1123 subdomain must consist of lower case alphanumeric characters, '-' or '.', and must start and end with an alphanumeric character"
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:111:const DNS1123SubdomainMaxLength int = 253
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:113:var dns1123SubdomainRegexp = regexp.MustCompile("^" + dns1123SubdomainFmt + "$")
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:115:// IsDNS1123Subdomain tests for a string that conforms to the definition of a
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:116:// subdomain in DNS (RFC 1123).
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:117:func IsDNS1123Subdomain(value string) []string {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:119:	if len(value) > DNS1123SubdomainMaxLength {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:120:		errs = append(errs, MaxLenError(DNS1123SubdomainMaxLength))
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:122:	if !dns1123SubdomainRegexp.MatchString(value) {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:123:		errs = append(errs, RegexError(dns1123SubdomainErrorMsg, dns1123SubdomainFmt, "example.com"))
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:151:const wildcardDNS1123SubdomainFmt = "\\*\\." + dns1123SubdomainFmt
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:152:const wildcardDNS1123SubdomainErrMsg = "a wildcard DNS-1123 subdomain must start with '*.', followed by a valid DNS subdomain, which must consist of lower case alphanumeric characters, '-' or '.' and end with an alphanumeric character"
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:154:// IsWildcardDNS1123Subdomain tests for a string that conforms to the definition of a
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:155:// wildcard subdomain in DNS (RFC 1034 section 4.3.3).
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:156:func IsWildcardDNS1123Subdomain(value string) []string {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:157:	wildcardDNS1123SubdomainRegexp := regexp.MustCompile("^" + wildcardDNS1123SubdomainFmt + "$")
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:160:	if len(value) > DNS1123SubdomainMaxLength {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:161:		errs = append(errs, MaxLenError(DNS1123SubdomainMaxLength))
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:163:	if !wildcardDNS1123SubdomainRegexp.MatchString(value) {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:164:		errs = append(errs, RegexError(wildcardDNS1123SubdomainErrMsg, wildcardDNS1123SubdomainFmt, "*.example.com"))
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:288:	if len(value) > DNS1123SubdomainMaxLength {
+./vendor/k8s.io/apimachinery/pkg/util/validation/validation.go:289:		errs = append(errs, MaxLenError(DNS1123SubdomainMaxLength))
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:85:	remaining []byte
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:106:	left := len(d.remaining)
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:117:		d.remaining = out
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:123:		copy(data, d.remaining)
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:124:		d.remaining = nil
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:125:		return len(d.remaining), nil
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:129:	copy(data, d.remaining[:left])
+./vendor/k8s.io/apimachinery/pkg/util/yaml/decoder.go:130:	d.remaining = d.remaining[left:]
+./vendor/k8s.io/apimachinery/pkg/watch/mux.go:189:// have received the data yet as it can remain sitting in the buffered
+./vendor/k8s.io/client-go/LICENSE:45:      of this License, Derivative Works shall not include works that remain
+./vendor/k8s.io/client-go/pkg/api/types.go:46://      to the definition of a "subdomain" in RFCs 1035 and 1123.  This is captured
+./vendor/k8s.io/client-go/pkg/api/types.go:459:// PersistentVolumeReclaimPolicy describes a policy for end-of-life maintenance of persistent volumes
+./vendor/k8s.io/client-go/pkg/api/types.go:1136:	// The name of the Protection Domain for the configured storage (defaults to "default").
+./vendor/k8s.io/client-go/pkg/api/types.go:1138:	ProtectionDomain string
+./vendor/k8s.io/client-go/pkg/api/types.go:1139:	// The Storage Pool associated with the protection domain (defaults to "default").
+./vendor/k8s.io/client-go/pkg/api/types.go:2022:	// ("all topologies" here means all the topologyKeys indicated by scheduler command-line argument --failure-domains);
+./vendor/k8s.io/client-go/pkg/api/types.go:2198:	// If specified, the fully qualified Pod hostname will be "<hostname>.<subdomain>.<pod namespace>.svc.<cluster domain>".
+./vendor/k8s.io/client-go/pkg/api/types.go:2199:	// If not specified, the pod will not have a domainname at all.
+./vendor/k8s.io/client-go/pkg/api/types.go:2201:	Subdomain string
+./vendor/k8s.io/client-go/pkg/api/types.go:2666:	// Optional: Supports "ClientIP" and "None".  Used to maintain session affinity.
+./vendor/k8s.io/client-go/pkg/api/types.go:3086:// Fully-qualified resource typenames are constructed from a DNS-style subdomain, followed by a slash `/` and a name.
+./vendor/k8s.io/client-go/pkg/api/v1/conversion.go:718:		// TODO(#18538): We round up resource values to milli scale to maintain API compatibility.
+./vendor/k8s.io/client-go/pkg/api/v1/defaults.go:32:		// TODO(#18538): We round up resource values to milli scale to maintain API compatibility.
+./vendor/k8s.io/client-go/pkg/api/v1/defaults.go:361:	if obj.ProtectionDomain == "" {
+./vendor/k8s.io/client-go/pkg/api/v1/defaults.go:362:		obj.ProtectionDomain = "default"
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:6659:	i = encodeVarintGenerated(dAtA, i, uint64(len(m.Subdomain)))
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:6660:	i += copy(dAtA[i:], m.Subdomain)
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:7958:	i = encodeVarintGenerated(dAtA, i, uint64(len(m.ProtectionDomain)))
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:7959:	i += copy(dAtA[i:], m.ProtectionDomain)
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:11507:	l = len(m.Subdomain)
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:11965:	l = len(m.ProtectionDomain)
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:14147:		`Subdomain:` + fmt.Sprintf("%v", this.Subdomain) + `,`,
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:14551:		`ProtectionDomain:` + fmt.Sprintf("%v", this.ProtectionDomain) + `,`,
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:34264:				return fmt.Errorf("proto: wrong wireType = %d for field Subdomain", wireType)
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:34289:			m.Subdomain = string(dAtA[iNdEx:postIndex])
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:38975:				return fmt.Errorf("proto: wrong wireType = %d for field ProtectionDomain", wireType)
+./vendor/k8s.io/client-go/pkg/api/v1/generated.pb.go:39000:			m.ProtectionDomain = string(dAtA[iNdEx:postIndex])
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:514:  // a single attach. When stdin is true the stdin stream will remain open across multiple attach
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:516:  // first client attaches to stdin, and then remains open and accepts data until the client disconnects,
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:517:  // at which time stdin is closed and remains closed until the container is restarted. If this
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:2371:  // ("all topologies" here means all the topologyKeys indicated by scheduler command-line argument --failure-domains);
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:2770:  // If specified, the fully qualified Pod hostname will be "<hostname>.<subdomain>.<pod namespace>.svc.<cluster domain>".
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:2771:  // If not specified, the pod will not have a domainname at all.
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:2773:  optional string subdomain = 17;
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:3331:  // The name of the Protection Domain for the configured storage (defaults to "default").
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:3333:  optional string protectionDomain = 5;
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:3335:  // The Storage Pool associated with the protection domain (defaults to "default").
+./vendor/k8s.io/client-go/pkg/api/v1/generated.proto:3712:  // Supports "ClientIP" and "None". Used to maintain session affinity.
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19312:			yyq2[4] = x.ProtectionDomain != ""
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19418:						r.EncodeString(codecSelferC_UTF81234, string(x.ProtectionDomain))
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19426:					r.EncodeString(codecSelferC_UTF81234, string("protectionDomain"))
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19432:						r.EncodeString(codecSelferC_UTF81234, string(x.ProtectionDomain))
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19669:		case "protectionDomain":
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19671:				x.ProtectionDomain = ""
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19673:				yyv11 := &x.ProtectionDomain
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19854:		x.ProtectionDomain = ""
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:19856:		yyv31 := &x.ProtectionDomain
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:35783:			yyq2[18] = x.Subdomain != ""
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:36300:						r.EncodeString(codecSelferC_UTF81234, string(x.Subdomain))
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:36308:					r.EncodeString(codecSelferC_UTF81234, string("subdomain"))
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:36314:						r.EncodeString(codecSelferC_UTF81234, string(x.Subdomain))
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:36710:		case "subdomain":
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:36712:				x.Subdomain = ""
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:36714:				yyv37 := &x.Subdomain
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:37192:		x.Subdomain = ""
+./vendor/k8s.io/client-go/pkg/api/v1/types.generated.go:37194:		yyv80 := &x.Subdomain
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:54://      to the definition of a "subdomain" in RFCs 1035 and 1123. This is captured
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:524:// PersistentVolumeReclaimPolicy describes a policy for end-of-life maintenance of persistent volumes.
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:1215:	// The name of the Protection Domain for the configured storage (defaults to "default").
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:1217:	ProtectionDomain string `json:"protectionDomain,omitempty" protobuf:"bytes,5,opt,name=protectionDomain"`
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:1218:	// The Storage Pool associated with the protection domain (defaults to "default").
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:1843:	// a single attach. When stdin is true the stdin stream will remain open across multiple attach
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:1845:	// first client attaches to stdin, and then remains open and accepts data until the client disconnects,
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:1846:	// at which time stdin is closed and remains closed until the container is restarted. If this
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:2242:	// ("all topologies" here means all the topologyKeys indicated by scheduler command-line argument --failure-domains);
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:2503:	// If specified, the fully qualified Pod hostname will be "<hostname>.<subdomain>.<pod namespace>.svc.<cluster domain>".
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:2504:	// If not specified, the pod will not have a domainname at all.
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:2506:	Subdomain string `json:"subdomain,omitempty" protobuf:"bytes,17,opt,name=subdomain"`
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:2997:	// Supports "ClientIP" and "None". Used to maintain session affinity.
+./vendor/k8s.io/client-go/pkg/api/v1/types.go:3523:// Fully-qualified resource typenames are constructed from a DNS-style subdomain, followed by a slash `/` and a name.
+./vendor/k8s.io/client-go/pkg/api/v1/types_swagger_doc_generated.go:254:	"stdinOnce":                "Whether the container runtime should close the stdin channel after it has been opened by a single attach. When stdin is true the stdin stream will remain open across multiple attach sessions. If stdinOnce is set to true, stdin is opened on container start, is empty until the first client attaches to stdin, and then remains open and accepts data until the client disconnects, at which time stdin is closed and remains closed until the container is restarted. If this flag is false, a container processes that reads from stdin will never receive an EOF. Default is false",
+./vendor/k8s.io/client-go/pkg/api/v1/types_swagger_doc_generated.go:1230:	"topologyKey":   "This pod should be co-located (affinity) or not co-located (anti-affinity) with the pods matching the labelSelector in the specified namespaces, where co-located is defined as running on a node whose value of the label with key topologyKey matches that of any node on which any of the selected pods is running. For PreferredDuringScheduling pod anti-affinity, empty topologyKey is interpreted as \"all topologies\" (\"all topologies\" here means all the topologyKeys indicated by scheduler command-line argument --failure-domains); for affinity and for RequiredDuringScheduling pod anti-affinity, empty topologyKey is not allowed.",
+./vendor/k8s.io/client-go/pkg/api/v1/types_swagger_doc_generated.go:1374:	"subdomain":                     "If specified, the fully qualified Pod hostname will be \"<hostname>.<subdomain>.<pod namespace>.svc.<cluster domain>\". If not specified, the pod will not have a domainname at all.",
+./vendor/k8s.io/client-go/pkg/api/v1/types_swagger_doc_generated.go:1688:	"protectionDomain": "The name of the Protection Domain for the configured storage (defaults to \"default\").",
+./vendor/k8s.io/client-go/pkg/api/v1/types_swagger_doc_generated.go:1689:	"storagePool":      "The Storage Pool associated with the protection domain (defaults to \"default\").",
+./vendor/k8s.io/client-go/pkg/api/v1/types_swagger_doc_generated.go:1858:	"sessionAffinity":          "Supports \"ClientIP\" and \"None\". Used to maintain session affinity. Enable client IP based session affinity. Must be ClientIP or None. Defaults to None. More info: https://kubernetes.io/docs/concepts/services-networking/service/#virtual-ips-and-service-proxies",
+./vendor/k8s.io/client-go/pkg/api/v1/zz_generated.conversion.go:3529:	out.Subdomain = in.Subdomain
+./vendor/k8s.io/client-go/pkg/api/v1/zz_generated.conversion.go:3574:	out.Subdomain = in.Subdomain
+./vendor/k8s.io/client-go/pkg/api/v1/zz_generated.conversion.go:4321:	out.ProtectionDomain = in.ProtectionDomain
+./vendor/k8s.io/client-go/pkg/api/v1/zz_generated.conversion.go:4340:	out.ProtectionDomain = in.ProtectionDomain
+./vendor/k8s.io/client-go/pkg/apis/apps/types.go:123:	// claims in a way that maintains the identity of a pod. Every claim in
+./vendor/k8s.io/client-go/pkg/apis/apps/types.go:155:	// be maintained in the StatefulSet's revision history. The revision history
+./vendor/k8s.io/client-go/pkg/apis/apps/v1beta1/generated.proto:363:  // claims in a way that maintains the identity of a pod. Every claim in
+./vendor/k8s.io/client-go/pkg/apis/apps/v1beta1/generated.proto:395:  // be maintained in the StatefulSet's revision history. The revision history
+./vendor/k8s.io/client-go/pkg/apis/apps/v1beta1/types.go:176:	// claims in a way that maintains the identity of a pod. Every claim in
+./vendor/k8s.io/client-go/pkg/apis/apps/v1beta1/types.go:208:	// be maintained in the StatefulSet's revision history. The revision history
+./vendor/k8s.io/client-go/pkg/apis/apps/v1beta1/types_swagger_doc_generated.go:221:	"volumeClaimTemplates": "volumeClaimTemplates is a list of claims that pods are allowed to reference. The StatefulSet controller is responsible for mapping network identities to claims in a way that maintains the identity of a pod. Every claim in this list must have at least one matching (by name) volumeMount in one container in the template. A claim in this list takes precedence over any volumes in the template, with the same name.",
+./vendor/k8s.io/client-go/pkg/apis/apps/v1beta1/types_swagger_doc_generated.go:225:	"revisionHistoryLimit": "revisionHistoryLimit is the maximum number of revisions that will be maintained in the StatefulSet's revision history. The revision history consists of all revisions not represented by a currently applied StatefulSetSpec version. The default value is 10.",
+./vendor/k8s.io/client-go/pkg/apis/extensions/types.go:652:	// Host is the fully qualified domain name of a network host, as defined
+./vendor/k8s.io/client-go/pkg/apis/extensions/v1beta1/generated.proto:467:  // Host is the fully qualified domain name of a network host, as defined
+./vendor/k8s.io/client-go/pkg/apis/extensions/v1beta1/types.go:664:	// Host is the fully qualified domain name of a network host, as defined
+./vendor/k8s.io/client-go/pkg/apis/extensions/v1beta1/types_swagger_doc_generated.go:290:	"host": "Host is the fully qualified domain name of a network host, as defined by RFC 3986. Note the following deviations from the \"host\" part of the URI as defined in the RFC: 1. IPs are not allowed. Currently an IngressRuleValue can only apply to the\n\t  IP in the Spec of the parent Ingress.\n2. The `:` delimiter is not respected because ports are not allowed.\n\t  Currently the port of an Ingress is implicitly :80 for http and\n\t  :443 for https.\nBoth these may change in the future. Incoming requests are matched against the host before the IngressRuleValue. If the host is unspecified, the Ingress routes all traffic based on the specified IngressRuleValue.",
+./vendor/k8s.io/client-go/pkg/util/util.go:42:// a symlink or even a renamed version of their main program.
+./vendor/k8s.io/client-go/tools/cache/delta_fifo.go:84:// A note on the KeyLister used by the DeltaFIFO: It's main purpose is
+./vendor/k8s.io/client-go/tools/cache/listwatch.go:148:	remainingConditions := conditions[passedConditions:]
+./vendor/k8s.io/client-go/tools/cache/listwatch.go:161:	return watch.Until(timeout, watchInterface, remainingConditions...)
+./vendor/k8s.io/client-go/tools/cache/mutation_cache.go:57:// remains in the mutation cache before it is removed.
+./vendor/k8s.io/client-go/tools/cache/mutation_cache.go:61:// remaining in the cache for up to ttl when mutations and deletes occur very closely in time.
+./vendor/k8s.io/client-go/tools/cache/shared_informer.go:147:	// stopCh is the channel used to stop the main Run process.  We have to track it so that
+./vendor/k8s.io/client-go/util/cert/cert.go:49:// AltNames contains the domain names and IP addresses that will be added
+./vendor/k8s.io/client-go/util/flowcontrol/throttle.go:48:// The rate limiter allows bursts of up to 'burst' to exceed the QPS, while still maintaining a

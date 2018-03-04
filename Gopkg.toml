@@ -23,9 +23,5 @@
   version = "kubernetes-1.9.3"
 
 [[override]]
-  name = "k8s.io/client-go"
-  version = "kubernetes-1.9.3"
-
-[[override]]
   name = "github.com/aws/aws-sdk-go"
   version = "v1.13.4"
